@@ -11,6 +11,13 @@ A secure, private, and efficient local AI assistant powered by the Google Gemini
 * **Zero-Leak Security:** Built with comprehensive `.gitignore` rules to ensure API keys and personal files are never accidentally committed or exposed.
 * **Modular Architecture:** Clean separation of concerns between configuration management, core client logic, and user interfaces.
 
+
+Example-
+
+
+<img width="1377" height="887" alt="image" src="https://github.com/user-attachments/assets/f9e49917-1783-4b16-9490-6473e5aca425" />
+
+
 ---
 
 ## 🛠️ Project Structure
@@ -58,5 +65,3 @@ Databases: Local SQLite files (*.db) and history logs are excluded via .gitignor
 📄 License
 This project is open-source and available for personal use and customization.
 
-Example-
-<img width="1377" height="887" alt="image" src="https://github.com/user-attachments/assets/f9e49917-1783-4b16-9490-6473e5aca425" />
