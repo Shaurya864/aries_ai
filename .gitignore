@@ -1,0 +1,19 @@
+# Secrets & Credentials
+.env
+credentials.json
+token.json
+
+# Databases & Logs
+*.db
+*.db-shm
+*.db-wal
+jarvis_history.db
+
+# Executables & Binaries
+adb.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
+
+# Python files
+__pycache__/
+*.py[cod]
