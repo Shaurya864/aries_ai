@@ -57,3 +57,6 @@ Databases: Local SQLite files (*.db) and history logs are excluded via .gitignor
 
 📄 License
 This project is open-source and available for personal use and customization.
+
+Example-
+<img width="1377" height="887" alt="image" src="https://github.com/user-attachments/assets/f9e49917-1783-4b16-9490-6473e5aca425" />
